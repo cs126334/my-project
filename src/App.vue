@@ -1,13 +1,12 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    1234567890
+    123
     <router-view></router-view>
   </div>
 </template>
 
 <script>
-import
 export default {
   name: 'app'
 }
